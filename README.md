@@ -58,11 +58,20 @@
 ---
 
 ### 🚀 Current / Highlighted Projects
-Yahan apne best projects ke links aur 1-line description daal dena (abhi empty hai, jaise jaise projects banaogi update kar dena).
+*Yahan apne best projects ke links aur 1-line description daal dena (abhi empty hai, jaise jaise projects banaogi update kar dena).*
 
 *Example format:*
-- **[Tool Name](https://github.com/Manasvi2309/tool-name)** → AI-based subdomain enumerator / automated XSS scanner
+- [KEE3](https://github.com/Manasvi2309/KEE3) → KEE3 DeFi Oracle Risk Scanner
+  A simple tool to detect price oracle manipulation.
 
+- [VULN_SCANNER](https://github.com/Manasvi2309/VULN_SCANNER) -> VULN_SCANNER
+    A lightweight and fast Web Application Vulnerability Scanner built in Python.
+
+- [live_checker](https://github.com/Manasvi2309/live_checker) -> live_checker simple but powerful tool to
+  find live subdomains quickly.
+
+- [ADB_Testing_Tool](https://github.com/Manasvi2309/ADB_Testing_Tool) -> Android Testing Tool using Python and ADB.
+  
 ---
 
 ### 📫 Let's Connect
