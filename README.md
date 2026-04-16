@@ -67,10 +67,10 @@
 - [VULN_SCANNER](https://github.com/Manasvi2309/VULN_SCANNER) -> VULN_SCANNER
     A lightweight and fast Web Application Vulnerability Scanner built in Python.
 
-- [live_checker](https://github.com/Manasvi2309/live_checker) -> live_checker simple but powerful tool to
+- [Live_checker](https://github.com/Manasvi2309/Live_checker) -> live_checker simple but powerful tool to
   find live subdomains quickly.
 
-- [ADB_Testing_Tool](https://github.com/Manasvi2309/ADB_Testing_Tool) -> Android Testing Tool using Python and ADB.
+- [Android-Testing-tool](https://github.com/Manasvi2309/Android-testing-tool) -> Android Testing Tool using Python and ADB.
   
 ---
 
